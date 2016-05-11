@@ -24,6 +24,7 @@ namespace Game2048
             timer = new Timer();
             timer.Interval = 1000;
             timer.Start();
+            this.Text = "Game 2048";
             timer.Tick += new EventHandler(Timer_Tick);
         }
 
@@ -33,7 +34,7 @@ namespace Game2048
             rect1 = new Rectangle(0, 0, 400, 440);
             rect2 = new Rectangle(400, 0, 200, 440);
             e.Graphics.FillRectangle(new SolidBrush(Color.DarkGray), rect1);
-            e.Graphics.FillRectangle(new SolidBrush(Color.PaleVioletRed), rect2);
+            e.Graphics.FillRectangle(new SolidBrush(ColorTranslator.FromHtml("#5A7E8F")), rect2);
 
             Rectangle scoreRect = new Rectangle(420, 100, 150, 30);
             e.Graphics.FillRectangle(new SolidBrush(Color.DarkGray), scoreRect);

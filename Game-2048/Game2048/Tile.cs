@@ -26,29 +26,29 @@ namespace Game2048
         {
             switch (value)
             {
-                case 0: Color= ColorTranslator.FromHtml("#BFB9BD");
+                case 0: Color = ColorTranslator.FromHtml("#BFB9BD");
                     break;
                 case 2: Color = ColorTranslator.FromHtml("#FFC8DB");
                     break;
                 case 4: Color = ColorTranslator.FromHtml("#EB8FAC");
                     break;
-                case 8: Color = ColorTranslator.FromHtml("#DEBFA1");
+                case 8: Color = ColorTranslator.FromHtml("#8791BF");
                     break;
-                case 16: Color = ColorTranslator.FromHtml("#B344BC");
+                case 16: Color = ColorTranslator.FromHtml("#CE467B");
                     break;
-                case 32: Color = ColorTranslator.FromHtml("#CE467B");
+                case 32: Color = ColorTranslator.FromHtml("#994680");
+                    break; 
+                case 64: Color = ColorTranslator.FromHtml("#3b6ba5");
                     break;
-                case 64: Color = ColorTranslator.FromHtml("#8791BF");
-                    break;
-                case 128: Color = ColorTranslator.FromHtml("#BC79B8");
+                case 128: Color = ColorTranslator.FromHtml("#5883a3");
                     break;
                 case 256: Color = ColorTranslator.FromHtml("#545AA7");
                     break;
                 case 512: Color = ColorTranslator.FromHtml("#4E5180");
                     break;
-                case 1024: Color = ColorTranslator.FromHtml("#9A4EAe");
+                case 1024: Color = ColorTranslator.FromHtml("#4c4176");
                     break;
-                case 2048: Color = ColorTranslator.FromHtml("#54194E");
+                case 2048: Color = ColorTranslator.FromHtml("#5A7E8F");
                     break;
                 default: Color = Color.Beige;
                     break;

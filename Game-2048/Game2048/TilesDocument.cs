@@ -56,7 +56,12 @@ namespace Game2048
                 i = random.Next(0, 4);
                 j = random.Next(0, 4);
             }
-            tiles[i, j].addValue(2);
+            int number = random.Next(1, 100);
+            int value = 0;
+            if (number < 70)
+                value = 2;
+            else value = 4;
+            tiles[i, j].addValue(value);
             return true;
         }
 
