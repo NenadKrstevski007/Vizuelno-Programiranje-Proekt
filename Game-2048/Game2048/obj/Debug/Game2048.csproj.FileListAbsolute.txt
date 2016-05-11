@@ -69,6 +69,9 @@ C:\Users\user\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.Start.resources
 C:\Users\user\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.WinDialog.resources
 C:\Users\user\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.About.resources
+<<<<<<< HEAD
 C:\Users\Nenad Krstevski\Desktop\Vizuelno-Programiranje-Proekt-master (1)\Vizuelno-Programiranje-Proekt-master\Game-2048\Game2048\bin\Debug\Game2048.exe.config
 C:\Users\Nenad Krstevski\Desktop\Vizuelno-Programiranje-Proekt-master (1)\Vizuelno-Programiranje-Proekt-master\Game-2048\Game2048\obj\Debug\Game2048.exe
 C:\Users\Nenad Krstevski\Desktop\Vizuelno-Programiranje-Proekt-master (1)\Vizuelno-Programiranje-Proekt-master\Game-2048\Game2048\obj\Debug\Game2048.pdb
+=======
+>>>>>>> 61adb5a36796c27fd188e40114fd3161c08622b2
