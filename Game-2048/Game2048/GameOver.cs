@@ -12,12 +12,13 @@ namespace Game2048
 {
     public partial class GameOverDialog : Form
     { 
-       // private Graphics graphics;
         public DialogResult resault;
-        public GameOverDialog()
+        private string score;
+        public GameOverDialog(string s)
         {
             InitializeComponent();
-            
+            score = s;
+            lblScore.Text = "Score: " + score;
         }
 
         private void btnClose_Click(object sender, EventArgs e)

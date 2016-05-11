@@ -15,6 +15,7 @@ namespace Game2048
         private Timer timer;
         private int time;
         private TilesDocument tilesDoc;
+        private string timeElapsed;
         public Form1()
         {
             InitializeComponent();
@@ -34,7 +35,7 @@ namespace Game2048
             rect1 = new Rectangle(0, 0, 400, 440);
             rect2 = new Rectangle(400, 0, 200, 440);
             e.Graphics.FillRectangle(new SolidBrush(Color.DarkGray), rect1);
-            e.Graphics.FillRectangle(new SolidBrush(ColorTranslator.FromHtml("#5A7E8F")), rect2);
+            e.Graphics.FillRectangle(new SolidBrush(Color.PaleVioletRed), rect2);
 
             Rectangle scoreRect = new Rectangle(420, 100, 150, 30);
             e.Graphics.FillRectangle(new SolidBrush(Color.DarkGray), scoreRect);
@@ -106,16 +107,16 @@ namespace Game2048
         }
         private void gameOver() {
             timer.Stop();
-            GameOverDialog gameOver = new GameOverDialog();
+            string score = tilesDoc.Score.ToString();
+            GameOverDialog gameOver = new GameOverDialog(score);
             this.Opacity = 10;
             gameOver.ShowDialog();
             if (gameOver.resault == DialogResult.Yes)
             {
-                Form1 newGame = new Form1();
-                newGame.Show();
+               Start newGame = new Start();
                 newGame.FormClosing += (obj, args) => { this.Close(); };
-                // this.Close();
                 this.Hide();
+                newGame.ShowDialog();
             }
             if (gameOver.resault == DialogResult.No)
             {
@@ -126,16 +127,16 @@ namespace Game2048
         private void winner()
         {
             timer.Stop();
-            WinDialog winDialog = new WinDialog();
-            this.Opacity = 10;
+            string score = tilesDoc.Score.ToString();
+            WinDialog winDialog = new WinDialog(timeElapsed,score);
             winDialog.ShowDialog();
             if (winDialog.resault == DialogResult.Yes)
             {
-                Form1 newGame = new Form1();
-                newGame.Show();
+                Start newGame = new Start();
                 newGame.FormClosing += (obj, args) => { this.Close(); };
-                // this.Close();
                 this.Hide();
+                newGame.ShowDialog();
+
             }
             if (winDialog.resault == DialogResult.No)
             {
@@ -147,8 +148,8 @@ namespace Game2048
         {
             int min = time / 60;
             int sec = time % 60;
-            string timeSpend=Text = string.Format("{0:00}:{1:00}", min, sec);     
-            return timeSpend;
+            timeElapsed = string.Format("{0:00}:{1:00}", min, sec);     
+            return timeElapsed;
         }
 
         private void Timer_Tick(object sender, EventArgs e)

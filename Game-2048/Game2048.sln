@@ -5,12 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{6E835E75-7853-4942-A5E4-1036DE2C4DDA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF57A1E5-E484-4AB0-9EC2-1D3D280446BB}"
-	ProjectSection(SolutionItems) = preProject
-		..\2048-2.png = ..\2048-2.png
-		..\2048.png = ..\2048.png
-		WinIcon.ico = WinIcon.ico
-	EndProjectSection
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03B6F0D7-952D-4711-9940-2A7A01B21DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
