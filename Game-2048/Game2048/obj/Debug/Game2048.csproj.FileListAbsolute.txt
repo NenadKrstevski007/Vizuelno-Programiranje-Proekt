@@ -1,0 +1,58 @@
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\bin\Debug\Game2048.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\bin\Debug\Game2048.exe
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\bin\Debug\Game2048.pdb
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.exe
+c:\users\user\documents\visual studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.GameOverDialog.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Game2048\Game2048\obj\Debug\Game2048.WinDialog.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.GameOverDialog.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.WinDialog.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.GameOverDialog.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.WinDialog.resources
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Start.resources
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.GameOverDialog.resources
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.Start.resources
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.WinDialog.resources
+C:\Users\Nenad Krstevski\Desktop\VP-Proekt-master\VP-Proekt-master\Game2048-2\Game2048-2\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.csprojResolveAssemblyReference.cache
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.Form1.resources
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.GameOverDialog.resources
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.Start.resources
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.WinDialog.resources
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
