@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>2048</h1>
@@ -40,29 +40,28 @@ Mобилна верзија за Android: https://play.google.com/store/apps/de
 Класата е наменета за опис на едно квадраче од таблата за чии потреби се дефинирани следните <b>променливи</b>: 
         <ul>
 		<li><b>public int Value { get ; set; }</b>// вредноста на квадратчето</li>
-        <li> public Color Color { get; set; } //за бојата на квадратчето</li>
-        <li>public Point Position { get; set; }	//за позицијата на квадратчето</li>
-        <li>public static readonly int WIDTH = 80;	//константа за должина</li>
-         <li>public static readonly int HEIGTH = 80;	//константа за висината</li>
+        <li><b>public Color Color { get; set; }</b> //за бојата на квадратчето</li>
+        <li><b>public Point Position { get; set; }</b>	//за позицијата на квадратчето</li>
+        <li><b>public static readonly int WIDTH = 80;</b>	//константа за должина</li>
+         <li><b>public static readonly int HEIGTH = 80;</b>	//константа за висината</li>
 		</ul>
 <b>Имплементирани методи</b>:
 <ul>
-<li><b>public Tile(int value, Point position)</b>
+<li><b>public Tile(int value, Point position)</b><br>
 Конструктор кој прима два аргументи за вредноста и позицијата на квадратечето и притоа во него се поставува соодветната боја која е предефинирана во зависност од вредноста на квадратчето.</li>
-<li><b>public void setColor(int value)</b>
+<li><b>public void setColor(int value)</b><br>
 Функција која е ја враќа соодветната боја на квадратчето во зависност од претходно дефинираните вредности и бои.</li>
-<li><b>public void Draw(Graphics g)<b>
+<li><b>public void Draw(Graphics g)</b><br>
 Функција која го исцртува квадратчето на соодветната позиција, со соодветна  вредност и боја.</li>
-<li><b>public bool Equals(Tile t)</b>
+<li><b>public bool Equals(Tile t)</b><br>
 Функција која на влез добива определено квадратче (објект од тип Tile) и го споредува со тековното квадратче, односно проверува дали нивните вредности се еднакви.</li>
-<li><b>public void addValue(int value)</b>
+<li><b>public void addValue(int value)</b><br>
 Функција која на влез добива целобројна вредност и ја зголемува вредноста на тековното квадратче и според неговата вредност ја одредува бојата на позадината на тоа квадратче.</li>
-<li><b>public void clearValue()</b>
+<li><b>public void clearValue()</b><br>
 Функција која на влез не прима аргументи и служи за да ја пребрише вредноста на квадратче, бидејќи неговата вредност е додадена на некое од соседните квадратчиња.</li>
-<li><b>public bool isEmpty()</b>
+<li><b>public bool isEmpty()</b><br>
 Функција која на влез не прима аргументи и служи да провери дали вредноста на тековнот квадратче е еднаква на 0.</li>
 <ul>
   
-
 </body>
 </html>
