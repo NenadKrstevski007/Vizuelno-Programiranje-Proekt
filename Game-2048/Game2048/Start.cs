@@ -35,6 +35,10 @@ namespace Game2048
 
         }
 
-       
+        private void btnAbout_Click(object sender, EventArgs e)
+        {
+            About about = new About();
+            about.ShowDialog();
+        }
     }
 }
