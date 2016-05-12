@@ -65,35 +65,35 @@
             // 
             this.label1.AutoSize = true;
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.label1.Font = new System.Drawing.Font("Aardvark", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.label1.Location = new System.Drawing.Point(15, 14);
             this.label1.Name = "label1";
             this.label1.Padding = new System.Windows.Forms.Padding(70, 0, 23, 0);
-            this.label1.Size = new System.Drawing.Size(279, 38);
+            this.label1.Size = new System.Drawing.Size(279, 31);
             this.label1.TabIndex = 2;
             this.label1.Text = "GAME OVER";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Aardvark", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDark;
             this.label2.Location = new System.Drawing.Point(14, 95);
             this.label2.Name = "label2";
             this.label2.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.label2.Size = new System.Drawing.Size(311, 22);
+            this.label2.Size = new System.Drawing.Size(294, 20);
             this.label2.TabIndex = 3;
             this.label2.Text = "Do you want to start a new game?";
             // 
             // lblScore
             // 
             this.lblScore.AutoSize = true;
-            this.lblScore.Font = new System.Drawing.Font("Aardvark", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblScore.ForeColor = System.Drawing.SystemColors.ControlDark;
-            this.lblScore.Location = new System.Drawing.Point(36, 63);
+            this.lblScore.Location = new System.Drawing.Point(134, 60);
             this.lblScore.Name = "lblScore";
-            this.lblScore.Size = new System.Drawing.Size(61, 22);
+            this.lblScore.Size = new System.Drawing.Size(57, 20);
             this.lblScore.TabIndex = 4;
             this.lblScore.Text = "label3";
             // 
