@@ -75,3 +75,4 @@ C:\Users\Nenad Krstevski\Desktop\Vizuelno-Programiranje-Proekt-master (1)\Vizuel
 C:\Users\Nenad Krstevski\Desktop\Vizuelno-Programiranje-Proekt-master (1)\Vizuelno-Programiranje-Proekt-master\Game-2048\Game2048\obj\Debug\Game2048.pdb
 =======
 >>>>>>> 61adb5a36796c27fd188e40114fd3161c08622b2
+C:\Users\Nenad Krstevski\Desktop\git\Game-2048\Game2048\obj\Debug\Game2048.About.resources
